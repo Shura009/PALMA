@@ -188,10 +188,7 @@ footer {
 <section id="movies-new">
   <h2>Taze Kinolar</h2>
   <div class="movie-row">
-    <img src="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50367706-5287706.jpg" alt="Фильм 1">
-    <img src="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50850579-6691007.jpg" alt="Фильм 2">
-    <img src="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/51132947-6566880.jpg" alt="Фильм 3">
-    <img src="https://www.film.ru/sites/default/files/styles/thumb_260x400/public/movies/posters/50719798-7023682.jpg" alt="Фильм 4">
+    <img
   </div>
       <h3>Serial</h3>
       <div class="price">10 TMT</div>
